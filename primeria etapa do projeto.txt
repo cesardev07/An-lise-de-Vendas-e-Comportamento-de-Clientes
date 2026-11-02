@@ -1,0 +1,7 @@
+Estou na etapa inicial do projeto de análise de vendas no Excel, utilizando uma base fictícia feita por IA com 552 pedidos de 150 clientes, referentes a janeiro a dezembro de 2025.
+
+Transformei a base em uma tabela chamada tbVendas e criamos a aba PAINEL. Nela, calculamos o faturamento total de R$ 161.177,00, o total de 552 pedidos, o ticket médio de R$ 291,99 e a quantidade de 150 clientes únicos.
+
+Durante a conferência, a contagem apresentou 151 clientes. Investigando, com auxilio da IA, descobri que a tabela incluía linhas vazias até o final da planilha. Corrigi o intervalo para A1:G553 e validei os resultados: nenhum cliente em branco e 150 clientes únicos.
+
+Agora, vamos salvar essa etapa e registrar a primeira versão no GitHub pelo navegador, documentando os cálculos e a correção realizada. Depois, avançaremos para a análise do faturamento por mês.
